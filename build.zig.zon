@@ -1,0 +1,16 @@
+.{
+    .name = .tailwindcss,
+    .version = "0.0.0",
+    .fingerprint = 0x7f201b5d58a9d32a,
+    .dependencies = .{
+        .plugin_system = .{
+            .url = "git+https://github.com/ziex-dev/plugin-system#v0.1.0",
+            .hash = "plugin_system-0.0.0-S3gNWkcfAACyKAe4FfXuThWhArcunzSev124Nw2T3Twm",
+        },
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
