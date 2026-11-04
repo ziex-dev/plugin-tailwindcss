@@ -1,0 +1,8 @@
+{
+  "name": "@ziex/plugin-tailwindcss",
+  "private": true,
+  "module": "src/builder.js",
+  "devDependencies": {
+    "@types/node": "latest"
+  }
+}

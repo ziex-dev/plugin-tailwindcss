@@ -1,0 +1,8 @@
+{
+  "name": "tailwindcss_example",
+  "devDependencies": {
+    "@tailwindcss/node": "^4.2.2",
+    "@types/node": "latest",
+    "tailwindcss": "^4.2.2"
+  }
+}
